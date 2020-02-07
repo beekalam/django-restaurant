@@ -1,0 +1,8 @@
+beautifulsoup4==4.8.2
+Django==2.1.4
+django-bootstrap4==1.1.1
+django-summernote==0.8.11.6
+django-taggit==0.23.0
+Pillow==7.0.0
+pytz==2019.3
+soupsieve==1.9.5
